@@ -3,9 +3,9 @@
 <br />
 
 **About Me**
-- 💻 FrontEnd Web Developer
-
 - 🗒️ Project Manager
+
+- 💻 FrontEnd Web Developer
 
 - ❤️ UI/UX Design
 
