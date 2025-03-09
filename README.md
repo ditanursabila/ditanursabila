@@ -1,8 +1,8 @@
 <p align="center"><a href="https://ditanrs.my.id"><img width="80%" alt="Dita Nur Sabila" src="./assets/ditanrs.png" /></a></p>
 
 <br />
-**About me**
 
+**About Me**
 - 💻 FrontEnd Web Developer
 
 - 🗒️ Project Manager
