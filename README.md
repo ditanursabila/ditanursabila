@@ -1,4 +1,4 @@
-<p align="center"><a href="https://ditanrs.my.id" target="__blank"><img width="70%" alt="Dita Nur Sabila" src="./assets/ditanrs.png" /></a></p>
+<p align="center"><a href="https://ditanrs.my.id"><img width="70%" alt="Dita Nur Sabila" src="./assets/ditanrs.png" /></a></p>
 
 ### About Me
 
