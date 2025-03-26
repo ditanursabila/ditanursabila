@@ -1,13 +1,5 @@
 <p align="center"><a href="https://ditanrs.my.id"><img width="70%" alt="Dita Nur Sabila" src="./assets/ditanrs.png" /></a></p>
 
-### About Me
-
-- 🗒️ Project Manager
-
-- 💻 FrontEnd Web Developer
-
-- ❤️ UI/UX Design
-
 ### Tech Stack
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <a href="https://www.javascript.com/"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" /></a>
