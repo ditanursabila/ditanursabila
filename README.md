@@ -5,7 +5,7 @@
 <a href="https://www.javascript.com/"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" /></a>
 <a href="https://vuejs.org/"><img align="left" alt="Vue JS" title="Vue JS" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" /></a>
 <a href="https://tailwindcss.com/"><img align="left" alt="Tailwind" title="Tailwind" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /></a>
-<a href="https://en.wikipedia.org/wiki/HTML"><img align="left" alt="HTML" title="HTML" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a>
+<!-- <a href="https://en.wikipedia.org/wiki/HTML"><img align="left" alt="HTML" title="HTML" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a> -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="left" alt="CSS" title="CSS" width="21px" src="https://static-00.iconduck.com/assets.00/file-type-css-icon-451x512-eftbqujz.png" /></a>
 
 <p align="center">
